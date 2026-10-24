@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Eutectic and peritectic equilibria in coherent binary alloys: code"
+type: software
+repository-code: "https://github.com/materials-informatics-az/coherency"
+authors:
+  - family-names: Hassan
+    given-names: Samiah
+  - family-names: Wang
+    given-names: Jiayang
+  - family-names: Meissner
+    given-names: Teddy
+  - family-names: Deymier
+    given-names: Pierre A.
+  - family-names: Latypov
+    given-names: Marat I.
+preferred-citation:
+  type: article
+  title: "Eutectic and peritectic equilibria in coherent binary alloys"
+  authors:
+    - family-names: Hassan
+      given-names: Samiah
+    - family-names: Wang
+      given-names: Jiayang
+    - family-names: Meissner
+      given-names: Teddy
+    - family-names: Deymier
+      given-names: Pierre A.
+    - family-names: Latypov
+      given-names: Marat I.
+  journal: "Acta Materialia"
+  year: 2026
+  start: 122841
+  publisher:
+    name: Elsevier
+  doi: 10.1016/j.actamat.2026.122841
